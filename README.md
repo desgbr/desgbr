@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ahmed Gabr
 #### Graphic Designer and Front-end Developer
-![Graphic Designer and Front-end Developer](https://d2halst20r4hcy.cloudfront.net/92b/10c89/4394/47d7/8026/224f83956d45/normal/411813.jpg)
+![Graphic Designer and Front-end Developer]
 
 I'm a expert web design and Web development focused on clean & user-friendly experiences, I’m a Front End Developer. I have a Passion for Creating Clean, Beautiful.
 
