@@ -1,5 +1,6 @@
 <h1 align="center">Hi There, I'm Ahmed Gabr 👋</h1>
 <h3 align="center">Graphic Designer and Front-end Developer</h3>
+![](https://komarev.com/ghpvc/?username=desgbr&color=green)
  
 <p align="center">
       <a href="https://www.linkedin.com/in/desgbr"><img src="https://img.shields.io/badge/Linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -15,10 +16,10 @@
 
 </p>
 
-Skills: HTML / CSS / JAVASCRIPT / BOOTSTRAP / JQUERY / SASS / MYSQL / PHP
+Skills: REACTJS | NEXTJS | JAVASCTIPT | REDUX & REDUX TOOLKIT | APIS | SASS | CSS | HTML | BOOTSTRAP | GIT
 
 - 🔭 I’m currently working on pdf books library 
-- 🌱 I’m currently learning Javascript Bom and Dom, Vue.js, React.js 
+- 🌱 I’m currently learning NEXTJS
 - 👯 I’m looking to collaborate on Front-end Teams 
 - 📫 How to reach me: des.gbr@gmail.com 
 - ⚡ Fun fact: I'm Laughing in tough times 
