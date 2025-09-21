@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Ahmed Gabr 👋</h1>
-<h3 align="center">Graphic Designer and Front-end Developer</h3>
+<h3 align="center">Senior Front-end Developer Next.js and React.js</h3>
  
 <p align="center">
       <a href="https://www.linkedin.com/in/desgbr"><img src="https://img.shields.io/badge/Linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -15,11 +15,11 @@
 
 </p>
 
-Skills: REACTJS | NEXTJS | JAVASCTIPT | REDUX & REDUX TOOLKIT | APIS | SASS | CSS | HTML | BOOTSTRAP | GIT
+Skills: REACTJS | NEXTJS | JAVASCTIPT | TAILWIND CSS | REDUX & REDUX TOOLKIT | CONTEXT API | ZUSTAND | APIS | SASS | CSS | HTML | BOOTSTRAP | GIT
 
 - 🔭 I’m currently working on pdf books library 
-- 🌱 I’m currently learning NEXTJS
+- 🌱 I’m currently Backend with nodejs, express and nestjs
 - 👯 I’m looking to collaborate on Front-end Teams 
-- 📫 How to reach me: des.gbr@gmail.com 
-- ⚡ Fun fact: I'm Laughing in tough times 
+- 📫 How to reach me: ahmdgabrr@gmail.com 
+
 
